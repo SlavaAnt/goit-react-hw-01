@@ -1,0 +1,15 @@
+.user__img {
+  display: block;
+  margin: 0 auto;
+  margin-bottom: 10px;
+}
+.user__name {
+  font-size: 20px;
+}
+.user__online {
+  color: green;
+}
+
+.user__offline {
+  color: red;
+}

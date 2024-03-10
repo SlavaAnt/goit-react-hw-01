@@ -1,0 +1,29 @@
+.container {
+  width: 300px;
+  margin: 20px auto;
+  border: 2px solid black;
+  border-collapse: collapse;
+}
+
+thead {
+  background-color: rgb(53, 53, 53);
+  color: white;
+}
+thead th:nth-child(1) {
+  width: 36%;
+}
+
+thead th:nth-child(2) {
+  width: 32%;
+}
+
+thead th:nth-child(3) {
+  width: 32%;
+}
+
+th,
+td {
+  border: 1px solid black;
+  padding: 5px;
+  text-align: center;
+}
